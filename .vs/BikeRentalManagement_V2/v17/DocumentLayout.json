@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\UT01594\\Desktop\\BikeRentalManagement_V2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4758B555-9FE6-4783-844F-B5868CF1FA46}|BikeRentalManagement_V2\\BikeRentalManagement_V2.csproj|c:\\users\\ut01594\\desktop\\bikerentalmanagement_v2\\bikerentalmanagement_v2\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4758B555-9FE6-4783-844F-B5868CF1FA46}|BikeRentalManagement_V2\\BikeRentalManagement_V2.csproj|solutionrelative:bikerentalmanagement_v2\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4758B555-9FE6-4783-844F-B5868CF1FA46}|BikeRentalManagement_V2\\BikeRentalManagement_V2.csproj|c:\\users\\ut01594\\desktop\\bikerentalmanagement_v2\\bikerentalmanagement_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4758B555-9FE6-4783-844F-B5868CF1FA46}|BikeRentalManagement_V2\\BikeRentalManagement_V2.csproj|solutionrelative:bikerentalmanagement_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "C:\\Users\\UT01594\\Desktop\\BikeRentalManagement_V2\\BikeRentalManagement_V2\\Bike.cs",
+              "RelativeDocumentMoniker": "BikeRentalManagement_V2\\Bike.cs",
+              "ToolTip": "C:\\Users\\UT01594\\Desktop\\BikeRentalManagement_V2\\BikeRentalManagement_V2\\Bike.cs",
+              "RelativeToolTip": "BikeRentalManagement_V2\\Bike.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:59:19.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UT01594\\Desktop\\BikeRentalManagement_V2\\BikeRentalManagement_V2\\Program.cs",
               "RelativeDocumentMoniker": "BikeRentalManagement_V2\\Program.cs",
@@ -28,10 +49,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T06:49:19.748Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
